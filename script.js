@@ -13,3 +13,10 @@ another str\n \
 end.'
 
 console.log(message);
+
+
+//MUltine line string using template literal
+
+const msg = `new msg
+end of string `
+console.log(msg);
